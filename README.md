@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **developer** with a focus on creating acces
 
 ### 🚀 Skills:
 - **Frontend development:** Typescript, React, Styled Components
-- **Accesibility:**react-aria, aria tags 
+- **Accesibility:** react-aria, react-stately, aria tags 
 - **Backend Development / Scripting:** Javascript, Python
 - **Version Control:** Git & GitHub | GitLab | Bitbucket
 - **UI/UX:** Figma, Photoshop
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a **developer** with a focus on creating acces
 ---
 
 ### 🌱 I am currently working on:
+- Secret Client **Design System**
 - Personal App **Padel stats**.
 - Developing desktop app **Automation tools for accountants**.
 
