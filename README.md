@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a **developer** with a focus on creating acces
 
 ---
 
-### 📫 Contacto:
+### 📫 Contact:
 - [LinkedIn](https://www.linkedin.com/in/michael-s-peralta-3ab681b0/)
 
 <!--
