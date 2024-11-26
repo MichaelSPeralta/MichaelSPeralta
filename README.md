@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm a **developer** with a focus on creating acces
 ### 📫 Contact:
 - [LinkedIn](https://www.linkedin.com/in/michael-s-peralta-3ab681b0/)
 
+BTW my projects suck (they are old), I have some private projects to show if you are interested in working with me.
+
 <!--
 **MichaelSPeralta/MichaelSPeralta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
