@@ -39,7 +39,7 @@ I like to think that I code for both **end users and fellow developers**, making
 ---
 
 ### 📫 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/michael-s-peralta-3ab681b0/)  
+- [michael.peralta@outlook.es](michael.peralta@outlook.es)  
 
 > My old public projects might not reflect my current skills, but I have private projects to showcase if you're interested in working together.  
 
