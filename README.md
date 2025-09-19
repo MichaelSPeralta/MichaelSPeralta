@@ -115,12 +115,4 @@ Frontend Developer with **4+ years of experience** building scalable and accessi
 
 ---
 
-## 🔥 Current Focus
-
-- Developing next-generation accessible React components
-- Implementing scalable micro frontend architectures
-- Creating automated accessibility testing tools
-- Contributing to the React community with a11y best practices
-
----
 *Building the future of React development, one accessible component at a time.*
