@@ -1,151 +1,126 @@
 # Hi there, I'm Michael! 👋
 
-## 🚀 Senior Full-Stack Developer & Digital Solutions Architect
-### React + TypeScript Specialist | AI Agents Integration | Brand Systems Expert
+## 🚀 Senior Frontend Developer | React Specialist
+### React + TypeScript | Accessibility Expert | Design Systems
 
-Welcome to my GitHub! I'm a **seasoned developer and consultant** with extensive experience building **complete digital solutions** for businesses across various industries.
-
-With experience across **diverse professional projects**, I specialize in creating **high-performance web applications**, **comprehensive brand systems**, and **AI-powered automation** that drive real business results.
+Frontend Developer with **4+ years of experience** building scalable and accessible React applications. I specialize in creating **reusable components**, **design systems**, and **inclusive web experiences**.
 
 ---
 
-## 🎯 What I Deliver
+## 🎯 What I Build
 
-**🎨 Complete Digital Solutions**
-- End-to-end brand identity systems and professional web development
-- High-converting websites with proven performance optimization
-- 24/7 monitoring and maintenance architectures
-- Business process automation and AI integration
+**⚛️ Advanced React Applications**
+- Complex React applications with TypeScript for maximum scalability
+- Accessible components following WCAG and ARIA standards
+- Robust design systems with Storybook
+- Legacy application migration and modernization
 
-**⚡ Advanced React Applications**
-- Enterprise-grade React + TypeScript applications
-- Scalable component libraries and design systems  
-- Progressive Web Apps (PWAs) with offline capabilities
-- Complex dashboard interfaces and data visualization
+**🎨 Design Systems & UI Libraries**
+- Reusable and accessible component libraries
+- Technical documentation and implementation guides
+- Developer support and team mentoring
+- Seamless design-to-development integration
 
-**🤖 AI-Accelerated Development**
-- AI-assisted development, debugging, and testing for 10x faster delivery
-- AI-enhanced UX/UI design processes and rapid prototyping
-- Automated code generation and optimization workflows
-- Intelligent testing and quality assurance processes
-- AI-enhanced project management and development lifecycle automation
-- Custom integrations and workflow automation across all development phases
+**🌐 Inclusive Web Experiences**
+- Accessibility (a11y) optimization and assistive technology compatibility
+- Keyboard navigation and screen reader support
+- Comprehensive testing with Jest and React Testing Library
+- Performance optimization and Core Web Vitals
 
-**📈 Strategic Technical Consulting**
-- Application architecture planning and performance optimization
-- Code reviews and development process improvement
-- Conversion rate optimization (average 300-400% improvements)
-- Team mentoring and technical strategy development
+**🏗️ Frontend Architecture**
+- Micro frontends and multi-repo architectures
+- CI/CD pipelines with Docker and Kubernetes
+- REST and GraphQL API integration
+- Code reviews and development best practices
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Tech Stack
 
-**Frontend Architecture**
-- **Languages:** TypeScript, JavaScript, Python
-- **Frameworks:** React, Next.js, Progressive Web Apps
-- **Styling:** Styled Components, CSS3, Advanced Responsive Design
-- **Design:** AI-assisted UX/UI workflows, Figma, rapid prototyping
-- **Accessibility:** WCAG compliance, ARIA, inclusive design principles
+**Frontend Core**
+- **React:** Versions 16, 17, 18 with advanced hooks and context
+- **TypeScript:** Strict typing and scalable development patterns
+- **Styling:** Styled Components, CSS3, SASS, responsive design
+- **Testing:** Jest, React Testing Library, accessibility testing
 
-**Backend & Integration**
-- **APIs:** REST, GraphQL, complex third-party integrations
-- **AI:** Development acceleration tools, automated testing workflows
-- **Databases:** Modern data architectures and optimization
-- **DevOps:** AI-enhanced CI/CD pipelines, automated monitoring, smart deployment strategies
-
-**Business-Critical Systems**
-- **Performance:** Consistent 2-second load times, Google PageSpeed 90+
-- **Reliability:** 99.9% uptime architectures with automated monitoring
-- **Analytics:** Advanced tracking, conversion optimization, A/B testing
-- **Security:** Enterprise-level SSL, backup systems, threat protection
+**Tools & DevOps**
+- **Build Tools:** Vite, Webpack, optimized development
+- **Design Systems:** Storybook, Figma, documented components
+- **DevOps:** Docker, Kubernetes, Azure, automated CI/CD
+- **Collaboration:** Jira, Confluence, Git workflows
 
 ---
 
-## 🌟 Professional Experience Highlights
+## 💼 Professional Experience
 
-**💼 Professional Project Experience**
-- **Complete Brand Systems:** Visual identity design integrated with modern web development
-- **High-Performance Applications:** React/TypeScript apps serving thousands of concurrent users
-- **AI-Enhanced Solutions:** Accelerated development cycles with AI-assisted coding, testing, and deployment automation
-- **Enterprise Consulting:** Architecture reviews and optimization for scaling businesses
+**🏢 GlobalLogic (2021 - Present)**
+- **Senior Developer:** Leading accessible design system development
+- **Complex Platforms:** Social media management, financial applications, e-commerce
+- **Mentoring:** Developer onboarding and daily code reviews
+- **DevOps:** CI/CD pipeline implementation from scratch
 
-**📊 Proven Track Record**
-- **Performance Standards:** All projects meet Google Core Web Vitals requirements
-- **Business Impact:** Client websites show 40-80% conversion improvements vs industry standard
-- **Reliability:** Maintained 99.9% uptime across all managed applications
-- **Innovation:** Early adopter of AI agents for business process optimization
-
----
-
-## 🤝 Available for Strategic Projects
-
-I work with **select clients and partners** who value:
-- **Quality-first approach:** Deep focus on architectural excellence
-- **Long-term thinking:** Sustainable, scalable solutions that grow with business
-- **Measurable outcomes:** Data-driven development with clear ROI metrics
-- **Cutting-edge innovation:** Leveraging latest technologies for competitive advantage
-
-**Current Specializations:**
-- Complex React/TypeScript application development
-- AI agent integration and intelligent automation
-- Complete digital transformation projects
-- High-performance web architecture consulting
+**🔧 Key Projects**
+- **Accessible Design System:** Reusable React components with full a11y support
+- **Legacy Migration:** Modernizing jQuery/HTML applications to React
+- **Micro Frontends:** Distributed architecture for US streaming company
+- **B2B Platform:** Complete React application for campaign management
 
 ---
 
-## 💼 Service Areas
+## 🎯 Specializations
 
-**⚡ Custom React Development**
-- Complex web applications with enterprise-grade architecture
-- Reusable component libraries and design systems
-- Performance-optimized, accessible, and infinitely scalable solutions
+**⚡ Expert React Development**
+- Complex components with optimized performance
+- Custom hooks and advanced state management patterns
+- Seamless API and backend service integration
+- Scalable architectures for enterprise applications
 
-**🤖 AI-Accelerated Development & Design**
-- AI-assisted development workflows for rapid prototyping and delivery
-- AI-enhanced UX/UI design processes and intelligent design iteration
-- Automated testing, debugging, and code optimization processes
-- Intelligent project management and development lifecycle automation
-- Custom integrations and smart workflow automation for enhanced productivity
+**♿ Web Accessibility Expert**
+- Complete WCAG 2.1 standards implementation
+- Accessibility audits and issue remediation
+- Inclusive development practices training and evangelization
+- Automated accessibility testing
 
-**🎨 Complete Digital Solutions**
-- Integrated brand identity and professional web development
-- Conversion-optimized websites with ongoing performance monitoring
-- Full-stack solutions from concept to deployment and maintenance
+**🎨 Design Systems & Component Libraries**
+- Component library design and implementation
+- Technical documentation and usage guides
+- Package versioning and distribution
+- Close collaboration with design teams
 
-**📈 Strategic Technical Consulting**
-- Application architecture reviews and scalability planning
-- Performance optimization and conversion rate improvement
-- Development team mentoring and process optimization
-
----
-
-## 📊 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![AI](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-a11y-000000?style=for-the-badge&logo=accessibility&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+**🔧 DevOps & Performance**
+- Optimized development environment configuration
+- CI/CD implementation for React projects
+- Bundle size and performance optimization
+- Automated monitoring and alerting
 
 ---
 
-## 📫 Ready to Collaborate?
+## 📊 Technologies
 
-**Email:** [michael.peralta@outlook.es](mailto:michael.peralta@outlook.es)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Accessibility](https://img.shields.io/badge/a11y-000000?style=for-the-badge&logo=accessibility&logoColor=white)
 
-> I maintain a curated portfolio of private projects and detailed case studies. **Let's discuss how we can build exceptional digital solutions** that deliver measurable business growth and technical excellence.
+---
+
+## 📫 Get in Touch
+
+**Email:** [msebaperalta@gmail.com](mailto:msebaperalta@gmail.com)
+
+> Passionate about creating **robust and accessible React applications** that deliver exceptional experiences for all users.
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Current Focus
 
-- Developing AI-accelerated React applications with intelligent development and design workflows
-- Building enterprise-grade component libraries using AI-assisted development and UX processes
-- Creating automated development, design, and testing pipelines that reduce project timelines by 80%
-- Architecting smart development workflows with AI integration across design, development, and deployment
+- Developing next-generation accessible React components
+- Implementing scalable micro frontend architectures
+- Creating automated accessibility testing tools
+- Contributing to the React community with a11y best practices
 
 ---
-*Crafting exceptional digital experiences through strategic technology and innovative design.*
+*Building the future of React development, one accessible component at a time.*
